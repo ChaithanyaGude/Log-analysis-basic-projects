@@ -99,3 +99,4 @@ In this project, students will learn the fundamentals of log analysis by working
 - Summarized log data showing the number of requests per IP address, the number of requests per day, and the most requested URLs.
 
 By completing these exercises, students will gain hands-on experience in accessing, filtering, and analyzing Apache web server logs, which are essential skills for identifying security incidents, understanding web traffic patterns, and troubleshooting issues.
+.
